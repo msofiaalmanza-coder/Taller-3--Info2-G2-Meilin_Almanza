@@ -1,0 +1,4 @@
+Archivo,PatientID,PatientName,StudyInstanceUID,StudyDescription,StudyDate,Modality,Rows,Columns,IntensidadPromedio
+CT_small.dcm,1CT1,CompressedSamples^CT1,1.3.6.1.4.1.5962.1.2.1.20040119072730.12322,e+1,20040119,CT,128,128,904.9261
+MR_small.dcm,4MR1,CompressedSamples^MR1,1.3.6.1.4.1.5962.1.2.4.20040826185059.5457,N/A,20040826,MR,64,64,518.8813
+rtdose.dcm,id11111,Lastname^Firstname,1.2.999.999.99.9.9999.8888,N/A,20030805,RTDOSE,10,10,1013273.3333
